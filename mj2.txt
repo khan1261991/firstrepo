@@ -1,0 +1,2 @@
+A properly maintained change log is the cornerstone of any mature and well-maintained project. Of course one could make the argument that the git log itself is the
+ultimate change log, but it rather represents the how, not the why or what, which non-technical team-mates probably care about.

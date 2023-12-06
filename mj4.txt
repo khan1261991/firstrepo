@@ -1,0 +1,2 @@
+git notes has been a feature of Git since 1.7.x circa 2012, its not incredibly widely used although it is pretty well documented and elegant.1
+Git notes allows you to add a note to a commit. Specifically, and very restrictively it only allows one note per commit (with some important exceptions that well come to soon!).

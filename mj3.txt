@@ -1,0 +1,2 @@
+The proposal laid forth in this post will allow you to effortlessly maintain a change log for your project which is suitable for stake holders, product owners, clients
+and customers, without breaking your back and adding more workflow steps.
